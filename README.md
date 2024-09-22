@@ -7,7 +7,7 @@ This repository contains my handwritten notes and Jupyter Notebooks from the [Ma
 The Machine Learning Specialization consists of the following three courses:
 
 1. **📊 Supervised Machine Learning: Regression and Classification**
-   - Focus on regression and classification algorithms.
+   - Focus on regression and classification algorithms. 
 
 2. **🔍 Advanced Learning Algorithms**
    - Dive deeper into advanced machine learning algorithms.
