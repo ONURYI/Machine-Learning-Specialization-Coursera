@@ -31,7 +31,7 @@ The repository is organized by course and week, containing:
 
 - **Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning**
   - Notes and Jupyter Notebooks 
- 
+  
  
 
  
